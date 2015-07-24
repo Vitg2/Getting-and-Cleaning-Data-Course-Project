@@ -1,7 +1,5 @@
-# Getting-and-Cleaning-Data-Course-Project
+п»ї# Getting-and-Cleaning-Data-Course-Project
 Getting and Cleaning Data Course Project 
-
-Виталий Григорьев (Vitali Grigoriev)
 
 ##Overview
 
